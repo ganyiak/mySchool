@@ -11,8 +11,13 @@
       </view>
       <!-- 个人信息 -->
       <view class='person-info'>
-        <view>
+        <view class='name'>
           姓名：夏至未至{{}}
+        </view>
+        <view class='name'>
+          学号：123
+        </view>
+        <view class=''>
         </view>
       </view>
     </view>
